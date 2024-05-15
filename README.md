@@ -4,8 +4,7 @@
 - 🌱 I'm currently learning the Python programming language
 - 💞️ I want to collaborate in the industrial world, both in technology and science
 - 📫 How do I contact me? Follow the Instagram account @apinn03 then just chat privately
-- 😄 Pronouns: ...
-- ⚡ Interesting facts: ...
+- ⚡ Interesting facts: Likes cats
 
 <!---
 AlfianHidayat03/AlfianHidayat03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
